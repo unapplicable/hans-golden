@@ -2,3 +2,4 @@
 
 - placeholder entry
 - nav link
+- categories
