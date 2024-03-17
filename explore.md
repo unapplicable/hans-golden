@@ -2,4 +2,4 @@
 
 - nav link
 - categories
-- paginated results
+- paginated results (v2)
