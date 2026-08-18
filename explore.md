@@ -1,4 +1,5 @@
 # Explore
 
-- placeholder entry
 - nav link
+- categories
+- paginated results (v2)
